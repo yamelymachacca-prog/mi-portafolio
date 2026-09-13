@@ -53,3 +53,9 @@ git add estilos.css
 git commit -m "Resuelve conflicto de color del titulo"
 git tag -a v1.0 -m "Version estable del laboratorio 02"
 ```
+## Enlace de referencia
+
+Para conocer más sobre Git y sus comandos se puede consultar la [documentación oficial de Git](https://git-scm.com/doc).
+## Captura del proyecto
+
+![Imagen](../img/captura.jpg)
